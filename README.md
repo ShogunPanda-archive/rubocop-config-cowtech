@@ -1,6 +1,6 @@
 # rubocop-config-cowtech
 
-[![Package Version](https://badge.fury.io/rb/rubocop-config-cowtech.png)](http://badge.fury.io/js/rubocop-config-cowtech)
+[![Package Version](https://badge.fury.io/rb/rubocop-config-cowtech.png)](http://badge.fury.io/rb/rubocop-config-cowtech)
 [![Dependency Status](https://gemnasium.com/ShogunPanda/rubocop-config-cowtech.png)](https://gemnasium.com/ShogunPanda/rubocop-config-cowtech)
 
 CowTech style rubocop config
