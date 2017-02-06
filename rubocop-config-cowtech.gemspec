@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |gem|
   gem.name = "rubocop-config-cowtech"
-  gem.version = "1.0.0"
+  gem.version = "1.0.1"
   gem.homepage = "https://github.com/ShogunPanda/rubocop-config-cowtech"
   gem.summary = %q{CowTech style rubocop config.}
   gem.description = %q{CowTech style rubocop config.}
