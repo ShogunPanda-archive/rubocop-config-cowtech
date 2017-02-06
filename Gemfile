@@ -5,4 +5,4 @@
 
 source "http://rubygems.org"
 gemspec
-gem "rake", "~> 11.0"
+gem "rake", "~> 12.0"
