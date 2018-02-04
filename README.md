@@ -1,7 +1,7 @@
 # rubocop-config-cowtech
 
-[![Package Version](https://badge.fury.io/rb/rubocop-config-cowtech.png)](http://badge.fury.io/rb/rubocop-config-cowtech)
-[![Dependency Status](https://gemnasium.com/ShogunPanda/rubocop-config-cowtech.png)](https://gemnasium.com/ShogunPanda/rubocop-config-cowtech)
+[![Gem Version](https://img.shields.io/gem/v/rubocop-config-cowtech.svg)](https://rubygems.org/gems/rubocop-config-cowtech)
+[![Dependency Status](https://img.shields.io/gemnasium/ShogunPanda/rubocop-config-cowtech.svg)](https://gemnasium.com/ShogunPanda/rubocop-config-cowtech)
 
 CowTech style rubocop config
 
@@ -29,4 +29,4 @@ inherit_gem:
 
 Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
 
-Licensed under the MIT license, which can be found at http://opensource.org/licenses/MIT.
+Licensed under the MIT license, which can be found at https://choosealicense.com/licenses/mit.
