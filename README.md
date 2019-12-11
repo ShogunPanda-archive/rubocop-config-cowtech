@@ -1,11 +1,8 @@
 # rubocop-config-cowtech
 
-[![Gem Version](https://img.shields.io/gem/v/rubocop-config-cowtech.svg)](https://rubygems.org/gems/rubocop-config-cowtech)
-[![Dependency Status](https://img.shields.io/gemnasium/ShogunPanda/rubocop-config-cowtech.svg)](https://gemnasium.com/ShogunPanda/rubocop-config-cowtech)
+## END OF DEVELOPMENT NOTICE - This gem has been discontinued
 
 CowTech style rubocop config
-
-https://github.com/ShogunPanda/rubocop-config-cowtech
 
 ## Usage
 
@@ -18,12 +15,12 @@ inherit_gem:
 
 ## Contributing to rubocop-config-cowtech
 
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
-* Fork the project.
-* Start a feature/bugfix branch.
-* Commit and push until you are happy with your contribution.
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
+- Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
+- Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
+- Fork the project.
+- Start a feature/bugfix branch.
+- Commit and push until you are happy with your contribution.
+- Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 
 ## Copyright
 
